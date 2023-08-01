@@ -6,7 +6,7 @@ It solves the issue of Type-A or Type-B TRS MIDI Inputs as it works with either 
 
 Feel free to use it but refernce the source in marketing material or any other publications (like manuals) as "LPZW Auto-Crossover MIDI Input", "LPZW TRS MIDI" or "LPZW MIDI In" or similar. 
 
-# Open-Source Hardware KAY KNOFE OF LPZW.modules
 
 ![schematic](https://github.com/kay-lpzw/LPZW_TRS_MIDI/blob/main/LPZW_MIDI_TRS.png?raw=true)
 
+Open-Source Hardware KAY KNOFE OF LPZW.modules
